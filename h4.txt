@@ -1,1 +1,2 @@
-4 koroche file
+4 koroche file 
+izmenenie iz git gui
