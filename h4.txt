@@ -1,2 +1,3 @@
 4 koroche file 
 izmenenie iz git gui
+cool 
